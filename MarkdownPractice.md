@@ -23,5 +23,9 @@ One             |Zero           |Zero       |Zero            |
 
 
 ## Hair Comparison ##
+### Mahomes ###
 Best hair in the NFL :star_struck:
 ![alt text](PatrickMahomes.jpg "The GOAT")
+### Peyton Manning ####
+Lame :skull:
+
