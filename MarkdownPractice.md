@@ -21,14 +21,6 @@ Patrick Mahomes | Lamar Jackson | Tom Brady | Petyon Manning |
 ----------------|---------------|-----------|----------------|
 One             |Zero           |Zero       |Zero            |
 
-[![Watch the video](https://img.youtube.com/vi/<(https://www.youtube.com/watch?v=HZBUmm3KvZM)>/hqdefault.jpg)](https://www.youtube.com/embed/<(https://www.youtube.com/watch?v=HZBUmm3KvZM)>)
-
-[<img src="https://www.youtube.com/watch?v=HZBUmm3KvZM.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/APOPm01BVrk)
-
-
-
-
 ## Hair Comparison ##
 ### Mahomes ###
 Best hair in the NFL :star_struck:
