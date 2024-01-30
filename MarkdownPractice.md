@@ -18,7 +18,7 @@ Hello does [thiswork](https://www.nfl.com/super-bowl/event-info/ "thiswork title
 ### Number of Superbowls reached in 2024 ###
 Patrick Mahomes | Lamar Jackson
 ----------------|--------------
-      One       |     Zero
+One             |Zero
 
 ----------------------------------------------------------------------------------------------
 ## Test 7 ##
