@@ -13,7 +13,7 @@ He can run and throw. Or *both*!
 Hes in the superbowl even when no one thought he could. Don't take my word for it, [check for yourself](https://www.nfl.com/super-bowl/event-info/ "title")
 
 ## Reason 5 ##
-See [Reason 1]
+See [Reason-1](#Reason-1 "Goto Reason-1")
 
 ## Only QB1 to Reach a Superbowl in 2024 ##
 ### Number of Superbowls reached in 2024 ###
