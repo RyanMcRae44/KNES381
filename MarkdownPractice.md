@@ -1,19 +1,19 @@
 # Why Patrick Mahomes is the best QB in the NFL #
 ----------------------------------------------------------------------------------------------
-## Test 1 ##
-Hello does this work
+## Reason 1 ##
+He plays in the **RED KINGDOM**
 
-## Test 2 ##
-Hello does _this_ work?
+## Reason 2 ##
+He can run and throw. Or *both*!
 
-## Test 3 ##
-~~Hello does this work?~~
+## Reason 3 ##
+~~He isn't.~~ See this isnt true. Thats why its crossed out.
 
-## Test 4 ##
-Hello does __THIS__ work?
+## Reason 4 ##
+Hes in the superbowl even when no one thought he could. Don't take my word for it, [check for yourself](https://www.nfl.com/super-bowl/event-info/ "title")
 
-## Test 5 ##
-Hello does [thiswork](https://www.nfl.com/super-bowl/event-info/ "thiswork title")
+## Reason 5 ##
+See 
 
 ## Only QB1 to Reach a Superbowl in 2024 ##
 ### Number of Superbowls reached in 2024 ###
