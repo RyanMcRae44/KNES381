@@ -1,4 +1,4 @@
-# This is a test #
+# Why Patrick Mahomes is the best QB in the NFL #
 ## Test 1 ##
 Hello does this work
 
@@ -18,7 +18,7 @@ Hello does [thiswork](https://www.nfl.com/super-bowl/event-info/ "thiswork title
 ### Number of Superbowls reached in 2024 ###
 Patrick Mahomes | Lamar Jackson
 ----------------|--------------
-      1         |       0     
+      One       |     Zero
 
 ----------------------------------------------------------------------------------------------
 ## Test 7 ##
