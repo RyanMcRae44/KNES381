@@ -9,8 +9,9 @@
     <td><img src="Capture.PNG" alt="photo"></td>
 </table>
 
-<a href="README.md">link text</a>
-and here is V̇O<sub>2</sub>
+<a href="README.md">Click here to access the read me file</a>
+<p><a href="Capture.PNG">Click here to access the AI generated image I used above (its in a seperate folder)</a></p>
+<p>and here is V̇O<sub>2</sub> </p>
 <p style="color:DodgerBlue;">This is a different colour.</p>
 
 
